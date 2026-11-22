@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#1b7a4b"/>
+  <g transform="translate(2 4) scale(.8)" fill="none" stroke="white" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 15V46M15 46h16M9 20h28"/>
+    <path d="M9 20 4 33M9 20l5 13M37 20l-5 13M37 20l5 13"/>
+    <path d="M3.5 33h11a5.5 4 0 0 1-11 0ZM31.5 33h11a5.5 4 0 0 1-11 0Z"/>
+  </g>
+  <text x="48" y="33" fill="white" font-family="system-ui, -apple-system, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" dominant-baseline="central">N</text>
+</svg>
